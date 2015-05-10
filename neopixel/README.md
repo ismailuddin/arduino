@@ -1,0 +1,2 @@
+## Neopixel LED controller using potentiometer
+This simple project uses a potentiometer and push button to control both the colour and number of LEDs lit up on an Adafruit Neopixel RGB ring. Forms part of a tutorial project from Science Exposure (www.scienceexposure.com)
